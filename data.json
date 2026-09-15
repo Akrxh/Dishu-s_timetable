@@ -1,0 +1,12 @@
+{
+  "title": "Weekly Class Routine",
+  "days": [
+    { "day": "Monday", "classes": [ { "subject": "English", "time": "4:30 – 6:00 PM" } ] },
+    { "day": "Tuesday", "classes": [ { "subject": "SST", "time": "7:00 – 9:30 PM" } ] },
+    { "day": "Wednesday", "classes": [] },
+    { "day": "Thursday", "classes": [ { "subject": "English", "time": "4:30 – 6:00 PM" }, { "subject": "SST", "time": "7:00 – 9:30 PM" } ] },
+    { "day": "Friday", "classes": [] },
+    { "day": "Saturday", "classes": [ { "subject": "Maths", "time": "3:30 – 5:30 PM" } ] },
+    { "day": "Sunday", "classes": [ { "subject": "Maths", "time": "3:30 – 5:30 PM" } ] }
+  ]
+}
